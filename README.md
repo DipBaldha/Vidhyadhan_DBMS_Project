@@ -1,13 +1,25 @@
 # Vidhyadhan_DBMS_Project
 
-1. ERD.pdf Entity Relationship Diagram
+**VidhyaDhan (Online Scholarship Management System)**
 
-2. Relation_Schema.pdf 
+Group Members(5): Vraj Dobariya, Dip Baldha, Rishi Godhasara, Aman Mangukiya, Darshak Kukadiya
 
-3. DDL.txt - Data Definition Language Script
+What is Vidhyadhan? : Database on Scholarships Management which are handled online with including eligibility criteria.
 
-4. DATA_INSERTION.txt text file Containing SQL Data Insertion Script
+Project assigned by : Prof. Pokhar Mal Jat (DAIICT)
+College : Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)
 
-5. Queries.txt text file Containing Queries
+
+Files:
+
+1. ERD.pdf Entity           Relationship Diagram
+
+2. Relation_Schema.pdf      Relational Schema Diagram with Constraints and Keys 
+
+3. DDL.sql -                Data Definition Language Script to create Schema and define database.
+
+4. Data_Insertion.sql       Sql file containing SQL Data Insertion Script.
+
+5. Queries.sql              Sql file containing Queries to be run on database
 
 
