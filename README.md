@@ -12,14 +12,14 @@ College : Dhirubhai Ambani Institute of Information and Communication Technology
 
 Files:
 
-1. ERD.pdf                         Entity Relationship Diagram
+1. ERD.pdf                          ->  Entity Relationship Diagram
 
-2. Relation_Schema.pdf             Relational Schema Diagram with Constraints and Keys 
+2. Relation_Schema.pdf              ->  Relational Schema Diagram with Constraints and Keys 
 
-3. DDL_Script.sql -                Data Definition Language Script to create Schema and define database.
+3. DDL_Script.sql -                 ->  Data Definition Language Script to create Schema and define database.
 
-4. Data_Insertion.sql              Sql file containing SQL Data Insertion Script.
+4. Data_Insertion.sql               ->  Sql file containing SQL Data Insertion Script.
 
-5. Queries.sql                     Sql file containing Queries to be run on database
+5. Queries.sql                      ->  Sql file containing Queries to be run on database
 
 
