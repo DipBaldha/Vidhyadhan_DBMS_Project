@@ -16,7 +16,7 @@ Files:
 
 2. Relation_Schema.pdf      Relational Schema Diagram with Constraints and Keys 
 
-3. DDL.sql -                Data Definition Language Script to create Schema and define database.
+3. DDL_Script.sql -                Data Definition Language Script to create Schema and define database.
 
 4. Data_Insertion.sql       Sql file containing SQL Data Insertion Script.
 
